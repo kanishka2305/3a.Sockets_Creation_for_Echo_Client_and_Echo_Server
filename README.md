@@ -32,11 +32,11 @@ while True:
 ```
 ## OUPUT:
 ### Client:
+![307807052-4a2eb9f6-50c1-48fd-ac91-d96264deb03e](https://github.com/kanishka2305/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113497357/7c089e2e-e07b-46c7-b6e2-c37e891d558a)
 
-![307807024-945eb049-dd59-41ec-beaf-bf89449d403d](https://github.com/kanishka2305/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113497357/619061fc-53fa-46b0-9ac0-bcb303935c85)
 
 ### Server:
-![307807052-4a2eb9f6-50c1-48fd-ac91-d96264deb03e](https://github.com/kanishka2305/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113497357/7c089e2e-e07b-46c7-b6e2-c37e891d558a)
+![307807024-945eb049-dd59-41ec-beaf-bf89449d403d](https://github.com/kanishka2305/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/113497357/619061fc-53fa-46b0-9ac0-bcb303935c85)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
